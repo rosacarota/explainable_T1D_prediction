@@ -3,7 +3,7 @@
 
 > **Tesi di Laurea Triennale**  
 > Corso di Laurea in Informatica – Università degli Studi di Salerno  
-> **Autrice**: Rosa Carota
+> **Autrice**: Rosa Carotenuto
 
 ## Obiettivi
 - Classificare soggetti sani e affetti da T1D utilizzando modelli di machine learning.
