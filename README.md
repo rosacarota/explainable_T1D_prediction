@@ -2,8 +2,7 @@
 # Explainable Machine Learning per la Classificazione del Diabete di Tipo 1 (T1D)
 
 > **Tesi di Laurea Triennale**  
-> Corso di Laurea in Informatica – Università degli Studi di Salerno  
-> **Autrice**: Rosa Carotenuto
+> Corso di Laurea in Informatica – Università degli Studi di Salerno
 
 ## Obiettivi
 - Classificare soggetti sani e affetti da T1D utilizzando modelli di machine learning.
