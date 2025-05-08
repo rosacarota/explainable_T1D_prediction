@@ -11,17 +11,6 @@
 - Valutare le performance dei modelli tramite metriche standard.
 - Analizzare l’importanza delle feature nei modelli.
 
-## Struttura della Repository
-
-explainable_T1D_prediction/
-├── src/ # Codice sorgente e script di analisi
-├── CEL/ # Dati di espressione genica (raw)
-├── png/ # Grafici e visualizzazioni
-├── txt/ # File di testo e documentazione
-├── requirements.txt # Dipendenze Python
-├── .gitignore
-└── README.md
-
 ## Tecnologie Utilizzate
 - **Linguaggi**: Python, R
 - **Python**:
